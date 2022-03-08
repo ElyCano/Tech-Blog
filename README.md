@@ -14,7 +14,10 @@ This application follows the MVC paradigm in its architectural structure, using 
 
 ## Screenshot
 
-Example [screenshot-pic]().
+Home [screenshot-pic]().
+Dashboard [screenshot-pic]().
+Login [screenshot-pic]().
+Sign Up [screenshot-pic]().
 
 ## Table of Contents
 
