@@ -14,10 +14,10 @@ This application follows the MVC paradigm in its architectural structure, using 
 
 ## Screenshot
 
-Home [screenshot-pic]().
-Dashboard [screenshot-pic]().
-Login [screenshot-pic]().
-Sign Up [screenshot-pic]().
+- Home [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Home.jpg?raw=true).
+- Dashboard [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Dashboard.jpg?raw=true).
+- Login [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Login.jpg?raw=true).
+- Sign Up [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/SignUp.jpg?raw=true).
 
 ## Table of Contents
 
