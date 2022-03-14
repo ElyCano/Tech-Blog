@@ -8,9 +8,13 @@ Tech-Blog
 
 This application follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-## Demo
+## Deployed App Video Heroku
 
-- Deployed App Video [_Click Here_](https://watch.screencastify.com/v/Pf900zSmoswxMwzIuqM1).
+- Deployed App Video [_Click Here_](https://watch.screencastify.com/v/abJFp58PW2CR0XSMFjy4).
+
+## Deployed App Link Heroku
+
+- [Deployed Link ](https://tech-blog-app-ec.herokuapp.com)
 
 ## Screenshot
 
