@@ -22,6 +22,8 @@ This application follows the MVC paradigm in its architectural structure, using 
 - Dashboard [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Dashboard.jpg?raw=true).
 - Login [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Login.jpg?raw=true).
 - Sign Up [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/SignUp.jpg?raw=true).
+- Post SQL DB [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/SignUp.jpg?raw=true).
+- User SQL DB [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/SignUp.jpg?raw=true).
 
 ## Table of Contents
 
